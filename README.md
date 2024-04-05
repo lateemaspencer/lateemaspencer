@@ -31,7 +31,7 @@ I am a Full Stack Developer from New York City.
 - :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
 - 🌱 Exploring Blockchain and all of its possibilities.
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I research blockchain and purchase NFTs.
 
 ---
 
