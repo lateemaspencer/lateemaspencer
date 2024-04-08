@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZpMGVsOGc0NnA4Mm96MjQyN3FhdTVnNGdrcGwxY3Mza2R3bm1xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UznifQczVdPIQXzyU6/giphy.gif" width="100"/>
+</p>
 
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lateema-spencer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,12 +10,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=cryptoalgorythm&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptoalgorythm&style=flat-square&color=blue" alt=""/></p>
+ <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRjbzV3dnJ3ZmZqNHZoNTVqeHVtMzU4OXp0OTNuNzV2bm9sczhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rO6jZHFGxA7pxYsaRm/giphy.gif" width="600" height="300"/>
@@ -35,9 +31,9 @@ I am a Full Stack Developer from New York City.
 
 ---
 
-### :hammer_and_wrench: 
+### 🛠 &nbsp;Languages and Tools :
 
-<div>
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
   &nbsp;
@@ -55,7 +51,7 @@ I am a Full Stack Developer from New York City.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</p>
 
 <!--
 **lateemaspencer/lateemaspencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
