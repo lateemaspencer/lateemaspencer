@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZpMGVsOGc0NnA4Mm96MjQyN3FhdTVnNGdrcGwxY3Mza2R3bm1xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UznifQczVdPIQXzyU6/giphy.gif" width="100"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRjbzV3dnJ3ZmZqNHZoNTVqeHVtMzU4OXp0OTNuNzV2bm9sczhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rO6jZHFGxA7pxYsaRm/giphy.gif" width="600" height="300"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lateema-spencer/">
@@ -9,16 +9,9 @@
   <a href="https://twitter.com/CryptoAlgorythm">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptoalgorythm&style=flat-square&color=blue" alt=""/></p>
- <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRjbzV3dnJ3ZmZqNHZoNTVqeHVtMzU4OXp0OTNuNzV2bm9sczhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rO6jZHFGxA7pxYsaRm/giphy.gif" width="600" height="300"/>
 </div>
-
---- 
-
+ <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :woman_technologist: About Me :
 
